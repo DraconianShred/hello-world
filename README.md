@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+I'll use this repository to  store all the hello world codes for various languages I'll be using.
